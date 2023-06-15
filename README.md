@@ -4,12 +4,7 @@ My research agenda centers on the intersection between (green) fiscal policies a
 
 I attempt to understand the political causes behind different renewable energy deployment strategies and the political consequences for fastening (or not) the ecological transition via green voting and other behavioral expressions of support.
 
-- 
--   👋 Hi, I’m @Martinalberdi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Martinalberdi/Martinalberdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
