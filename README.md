@@ -1,12 +1,2 @@
-I am a PhD Candidate in Political Science at the European University Institute in Florence, Italy. I work in the fields of comparative politics and political economy, with a geographic focus on Western Europe and a substantive focus on the intersection between climate and social policies.
+I am Ph.D. candidate at the Department of Political and Social Sciences at the European University Institute. I will be a visiting student at Princeton University in the fall semester 2024. In my dissertation project, I examine how climate policies influence political behavior, focusing on how energy policies affect homeowners’ perceptions of economic well-being within different types of energy transitions. I ground my thesis in the social insurance literature, arguing that climate policies enable some groups to build ecological wealth. More broadly, I am interested in the political consequences of progressive policies implemented by left-wing parties that benefit higher income groups, and when these make or break winning electoral coalitions.
 
-My research agenda centres on the intersection between (green) fiscal policies and distribution, attempting to understand the role of governments, firms and citizens in driving forward different types of renewable energy infrastructures. 
-
-Specifically, I study the political causes behind different renewable energy deployment strategies and the political consequences for fastening (or not) the ecological transition via green voting and other behavioural expressions of support.
-
-
-
-<!---
-Martinalberdi/Martinalberdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
